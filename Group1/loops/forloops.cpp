@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int number0fnumbers;
-    cout<< "Enter the number of eveb numbers yo want to print: " ;
+    cout<< "Enter the number of even numbers yo want to print: " ;
     cin>> number0fnumbers;
     int sum=0;
     cout<<"#############"<<endl;
